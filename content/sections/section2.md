@@ -14,3 +14,13 @@ xcxc
 
 
 {{< big-button text="Visit Download Page" href="https://github.com/runningstream/hugograyscale/" >}}
+
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+![Example image](/img/card.png)
+
