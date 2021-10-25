@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://happy-hugle-8dfa0b.netlify.app"
 languageCode = "en-us"
 title = "The Last Game"
 theme = "hugograyscale"
