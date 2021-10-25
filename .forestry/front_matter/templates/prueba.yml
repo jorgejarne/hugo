@@ -14,3 +14,5 @@ fields:
       file: 
       path: 
   label: gf
+pages:
+- content/sections/prueba1.md
