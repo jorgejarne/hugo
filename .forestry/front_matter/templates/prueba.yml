@@ -1,4 +1,16 @@
 ---
 label: prueba
 hide_body: false
-fields: []
+fields:
+- name: gf
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: gf
