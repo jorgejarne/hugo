@@ -136,13 +136,13 @@ header p {
   font-size: 18px;
 }
 
-/**/
+/*
 .improve-contrast-box {
   background: rgba(0, 0, 0, .5);
   border-radius: 5px;
   text-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
 }
-
+*/
 
 @media (min-width: 768px) {
   header {
@@ -150,7 +150,7 @@ header p {
     padding: 0;
   }
   header h1 {
-    font-size: 100px;
+    font-size: 70px; /*100*/
   }
   header p {
     font-size: 22px;
@@ -183,7 +183,8 @@ header p {
 
 .section-2 {
   color: white;
-  background: url("../img/section2-bg.jpg") no-repeat center center scroll;
+  /*background: url("../img/section2-bg.jpg") no-repeat center center scroll;*/
+  background: url("../img/prueba.jpg") no-repeat center center scroll;
   background-color: black;
   background-size: cover;
 }
@@ -263,4 +264,19 @@ footer p {
 
 img::selection {
   background: transparent;
+}
+
+.table {
+  border: 1px solid black;	
+  margin: 0 auto 0 auto;
+}
+
+.table-row {
+	display:flex;
+	width:100%;
+	padding:($half-spacing-unit * 1.5) 0;
+	
+	&:nth-of-type(odd) {
+		background:$color-form-highlight;
+	}
 }

@@ -183,7 +183,8 @@ header p {
 
 .section-2 {
   color: white;
-  background: url("../img/section2-bg.jpg") no-repeat center center scroll;
+  /*background: url("../img/section2-bg.jpg") no-repeat center center scroll;*/
+  background: url("../img/prueba.jpg") no-repeat center center scroll;
   background-color: black;
   background-size: cover;
 }
@@ -263,4 +264,19 @@ footer p {
 
 img::selection {
   background: transparent;
+}
+
+.table {
+  border: 1px solid black;	
+  margin: 0 auto 0 auto;
+}
+
+.table-row {
+	display:flex;
+	width:100%;
+	padding:($half-spacing-unit * 1.5) 0;
+	
+	&:nth-of-type(odd) {
+		background:$color-form-highlight;
+	}
 }

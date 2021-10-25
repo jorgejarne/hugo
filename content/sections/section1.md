@@ -10,3 +10,48 @@ Grayscale is a free Hugo theme, originally created for Bootstrap by Start Bootst
 This theme was adapted from a Jekyll version, brought to you by [Jerome Lachaud](https://github.com/jeromelachaud)
 
 This theme features stock photos by [Gratisography](http://gratisography.com/) along with a custom Google Maps skin courtesy of [Snazzy Maps](http://snazzymaps.com/).
+
+
+<!---
+![Example image](/img/demo.jpg)
+-->
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
