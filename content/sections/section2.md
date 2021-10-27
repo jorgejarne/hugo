@@ -1,26 +1,24 @@
 ---
-title: "Participate"
+title: Participate
 weight: 3
 improvecontrast: true
+
 ---
+## How to Participate
 
-## How to Participate?
+It is necessary to buy an NFT on the OpenSea platform to participe. An NFT is a special type of crypto token that represents something unique.
 
-You can download Grayscale for free from the Github page.
-cxcxccx
-cxxcxcx
-xcxc
+You can participate alone or in a group with just one nft participation card \[en negrita o en grande\]. The NFTs will be published on the Opensea platform.
 
+[Instructions to buy an NFT on OpenSea](https://cryptonews.com/guides/how-to-find-buy-and-sell-nfts-on-opensea.htm)
 
+When all available places in the game have been filled, the players will be notified with the start date.
 
-{{< big-button text="Visit Download Page" href="https://github.com/runningstream/hugograyscale/" >}}
+{{< big-button text="Buy your NFT participation" href="http://opensea.io/" >}}
 
-
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+ 
+ 
+ 
+ 
 
 ![Example image](/img/card.png)
-
