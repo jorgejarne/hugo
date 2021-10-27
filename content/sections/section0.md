@@ -1,8 +1,9 @@
 ---
-title: "Header"
+title: Header
 weight: 1
 improvecontrast: true
----
 
-# First contest based on NFTs
-Each contest only has one winner and one cash prize of 50,000 euros.
+---
+# 50 players and a unique prize of 40,000€
+
+ ##First contest based on NFTs
