@@ -210,3 +210,13 @@ Feel free to leave us a comment on the [Grayscale template Github page](https://
 {{< twitter user="stream_running" >}}
 {{< github user="runningstream" >}}
 {{< /socialhandles >}}
+
+{{< rawhtml >}}
+
+<script>
+
+document.getElementsByClassName('nav-item')\[3\].remove()
+
+</script>
+
+{{< /rawhtml >}}
