@@ -8,6 +8,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
     # Provide some metadata for search and indexing services
     description = "A port of the Grayscale theme to Hugo"
+    copyright = "Th3LastGam3"
 
 [Author]
     name = "RunningStream"
