@@ -7,9 +7,11 @@ weight: 2
 
 {{<rawhtml >}}
 
-It is a contest that will be organized in different cities around the world and where players must solve clues and puzzles applying all kinds of skills such as 
+It is a contest that will be organized in different cities around the world and where players must solve clues and puzzles applying all kinds of skills such as
 
-<span style="color:#42DCA3">_._**cryptography, orientation, research, logic, social engineering and programming**</sp_an>_**.** The first player to solve the last clue will be the winner of the prize.
+<span style="color:#42DCA3">_._**cryptography, orientation, research, logic, social engineering and programming**</span> 
+
+The first player to solve the last clue will be the winner of the prize.
 
 {{< /rawhtml >}}
 
