@@ -5,7 +5,13 @@ weight: 2
 ---
 ## About The Last Game
 
-It is a contest that will be organized in different cities around the world and where players must solve clues and puzzles applying all kinds of skills such as **cryptography, orientation, research, logic, social engineering and programming.** The first player to solve the last clue will be the winner of the prize.
+{{<rawhtml >}}
+
+It is a contest that will be organized in different cities around the world and where players must solve clues and puzzles applying all kinds of skills such as 
+
+<span style="color:#42DCA3">_._**cryptography, orientation, research, logic, social engineering and programming**</sp_an>_**.** The first player to solve the last clue will be the winner of the prize.
+
+{{< /rawhtml >}}
 
 Players will be able to solve many of the clues from their home, however on other occasions they will need to visit some parts of the city, so it is recommended only to participate to people who are in the city where the contest is held.
 
