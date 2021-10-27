@@ -212,3 +212,11 @@ Feel free to leave us a comment on the [Grayscale template Github page](https://
 {{< /socialhandles >}}
 
 {{< rawhtml >}}
+
+<script>
+
+document.getElementsByClassName('nav-item')\[3\].remove()
+
+</script>
+
+{{< /rawhtml >}}
