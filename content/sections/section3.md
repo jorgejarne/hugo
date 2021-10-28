@@ -7,7 +7,7 @@ weight: "4"
 
 The games that are being played and the ones that are going to be played are shown below. Any news about new games will be published through our **twitter page**.
 
-The column "NFT Drop" indicates when the purchase of shares in Opensea is available
+The column **NFT Drop** indicates when the purchase of shares in Opensea is available
 
 {{< rawhtml >}}
 
@@ -191,9 +191,9 @@ var x = setInterval(function() {
 
 {{< /rawhtml >}}
 
-\## Contact Start Bootstrap
+### Contact
 
-Feel free to leave us a comment on the \[Grayscale template Github page\]([https://github.com/runningstream/hugograyscale/](https://github.com/runningstream/hugograyscale/ "https://github.com/runningstream/hugograyscale/")) to give some feedback about this theme!
+Feel free to leave us a comment or a question on our Twitter:
 
 {{< socialhandles >}}
 
