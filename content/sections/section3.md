@@ -115,7 +115,7 @@ text-justify: inter-word;
 
     <td>Paris</td>
     
-    <td>Coming soon</td>
+    <td>XX/XX/XXXX</td>
 
 </tr>
 
