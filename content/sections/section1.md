@@ -7,7 +7,7 @@ weight: "2"
 
 {{<rawhtml >}}
 
-<cc style="font-size: 18px">
+<cc style="font-size: 16px">
 
 It is a contest that will be organized in different cities around the world and where players must solve clues and puzzles applying all kinds of skills such as <span style="color:#42DCA3">cryptography, orientation, research, logic, social engineering and programming. </span>
 
