@@ -15,8 +15,6 @@ It is a game that will be organized in different cities around the world and whe
 
 {{< /rawhtml >}}
 
- 
-
 {{<rawhtml >}}
 
 <cc style="font-size: 17px">
@@ -27,13 +25,11 @@ Players will be able to solve many of the clues from their home, however on othe
 
 {{< /rawhtml >}}
 
- 
-
 {{<rawhtml >}}
 
 <cc style="font-size: 17px">
 
-Only <span style="color:#42DCA3">50 players</span> can participate in each game and there will be a <span style="color:#42DCA3"> single winner </span> who will be the winner of a cash prize of <span style="color:#42DCA3"> 40,000 €</span> . The game does not have time and will only end when one of the players solves the last clue. At the beginning of the game, all participants will receive instructions and an initial clue.
+Only <span style="color:#42DCA3">50 players</span> can participate in each game and there will be a <span style="color:#42DCA3"> single winner </span> who will be the winner of a cash prize of <span style="color:#42DCA3"> 40,000 €</span>. The game does not have time and will only end when one of the players solves the last clue. At the beginning of the game, all participants will receive instructions and an initial clue.
 
 </cc>
 
