@@ -5,12 +5,12 @@ weight: "5"
 ---
 ## Contact
 
-Feel free to leave us a comment or a question on our Twitter:
+Leave us a comment or a question on Twitter:
 
 {{< socialhandles >}}
 
     {{< twitter user="stream_running" >}}
     
-    {{< github user="runningstream" >}}
+    {{< email user="runningstream" >}}
 
 {{< /socialhandles >}}
