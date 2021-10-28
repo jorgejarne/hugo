@@ -22,4 +22,3 @@ improvecontrast: true
 
 
 
-###### 50 players and a unique prize of 40,000€
