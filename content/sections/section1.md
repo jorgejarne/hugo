@@ -14,6 +14,7 @@ It is a game that will be organized in different cities around the world and whe
 </cc>
 
 {{< /rawhtml >}}
+&nbsp;
 
 {{<rawhtml >}}
 
@@ -24,6 +25,7 @@ Players will be able to solve many of the clues from their home, however on othe
 </cc>
 
 {{< /rawhtml >}}
+&nbsp;
 
 {{<rawhtml >}}
 
