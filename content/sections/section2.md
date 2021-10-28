@@ -1,6 +1,6 @@
 ---
 title: Participate
-weight: 3
+weight: "3"
 improvecontrast: true
 
 ---
@@ -14,11 +14,6 @@ You can participate alone or in a group with just **one nft participation card**
 
 When all available places in the game have been filled, the players will be notified with the start date.
 
-{{< big-button text="Buy your NFT participation" href="http://opensea.io/" >}}
-
- 
- 
- 
- 
+{{< big-button text="Buy NFT participation" href="http://opensea.io/" >}}
 
 ![Example image](/img/card.png)
