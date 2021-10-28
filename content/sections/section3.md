@@ -5,6 +5,10 @@ weight: "4"
 ---
 ## Active Games
 
+The games that are being played and the ones that are going to be played are shown below. Any news about new games will be published through our **twitter page**.
+
+The column "NFT Drop" indicates when the purchase of shares in Opensea is available
+
 {{< rawhtml >}}
 
 <head>
@@ -196,7 +200,6 @@ if (distance < 0) {
 </body>
 
 {{< /rawhtml >}}
-
 
 #### Contact us
 
