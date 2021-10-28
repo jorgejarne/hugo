@@ -1,5 +1,5 @@
 ---
-title: Contests
+title: Games
 weight: "4"
 
 ---
@@ -99,7 +99,7 @@ text-justify: inter-word;
 
     <td>Berlin</td>
     
-    <td id = "demo"></td>
+    <td>01/12/2021</td>
 
 </tr>
 
@@ -107,7 +107,7 @@ text-justify: inter-word;
 
     <td>Madrid</td>
     
-    <td>Coming soon</td>
+    <td>15/01/2022</td>
 
 </tr>
 
