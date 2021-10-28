@@ -1,6 +1,6 @@
 ---
 title: Contests
-weight: 4
+weight: "4"
 
 ---
 ## Active Games
@@ -197,12 +197,8 @@ if (distance < 0) {
 
 {{< /rawhtml >}}
 
-| Markdown | Less | Pretty |
-| --- | --- | --- |
-| Still | renders | nicely |
-| 1 | 2 |  |
 
-#### Contact Start Bootstrap
+#### Contact us
 
 Feel free to leave us a comment on the [Grayscale template Github page](https://github.com/runningstream/hugograyscale/) to give some feedback about this theme!
 
