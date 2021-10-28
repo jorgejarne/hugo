@@ -16,4 +16,8 @@ When all available places in the game have been filled, the players will be noti
 
 {{< big-button text="Buy NFT participation" href="http://opensea.io/" >}}
 
+&nbsp;
+
+&nbsp;
+
 ![Example image](/img/card.png)
