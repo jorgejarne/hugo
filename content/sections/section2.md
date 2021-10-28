@@ -14,8 +14,4 @@ You can participate alone or in a group with just **one nft participation card**
 
 {{< big-button text="Buy NFT participation" href="http://opensea.io/" >}}
 
- 
-
- 
-
-![Example image](/img/card.png)
+![Example image](/img/nftcard.png)
