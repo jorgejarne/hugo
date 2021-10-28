@@ -18,7 +18,7 @@ improvecontrast: true
 
 
 
-## First co-located game based on NFTs
+### First co-located game based on NFTs
 
 
 
