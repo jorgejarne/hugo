@@ -19,19 +19,17 @@ The column **NFT Drop** indicates when the purchase of shares in Opensea is avai
 
 p {
 
-  text-align: center;
+text-align: center;
 
-   margin-top: 0px;
-
-  
+margin-top: 0px;
 
 }
 
 .center {
 
-  margin-left: auto;
+margin-left: auto;
 
-  margin-right: auto;
+margin-right: auto;
 
 }
 
@@ -43,41 +41,41 @@ padding: 0 50px;
 
 tr {
 
-  font-size: 35 px;
+font-size: 35 px;
 
-  line-height: 50px;
+line-height: 50px;
 
-  text-indent: 20px;
+text-indent: 20px;
 
 }
 
 \#pruba1 {
 
-	text-align: justify;
+    text-align: justify;
 
 }
 
 \# prueba2{
 
-  font-size: 1.5em;
+font-size: 1.5em;
 
-  border: 1px solid black;
+border: 1px solid black;
 
-  padding: 10px;
+padding: 10px;
 
-  width: 95%;
+width: 95%;
 
-  margin: 10px auto;
+margin: 10px auto;
 
-  text-align: justify;
+text-align: justify;
 
 }
 
 \#draft {
 
-  text-align: justify;
+text-align: justify;
 
-  text-justify: inter-word;
+text-justify: inter-word;
 
 }
 
@@ -89,45 +87,45 @@ tr {
 
 <table class="center">
 
-  <tr>
+<tr>
 
     <th>CITY</th>
-
+    
     <th>NFT DROP</th>
-
+    
     <th>AVAILABLE PLAYERS</th>
 
-  </tr>
+</tr>
 
-  <tr>
+<tr>
 
     <td>Berlin</td>
-
+    
     <td id = "demo"></td>
-
+    
     <td>50</td>
 
-  </tr>
+</tr>
 
-  <tr>
+<tr>
 
     <td>Madrid</td>
-
+    
     <td>Coming soon</td>
-
+    
     <td>50</td>
 
-  </tr>
+</tr>
 
-  <tr>
+<tr>
 
     <td>Paris</td>
-
+    
     <td>Coming soon</td>
-
+    
     <td>50</td>
 
-  </tr>
+</tr>
 
 </table>
 
@@ -141,47 +139,39 @@ var countDownDate = new Date("Jan 5, 2022 15:37:25").getTime();
 
 var x = setInterval(function() {
 
-  // Get today's date and time
+// Get today's date and time
 
-  var now = new Date().getTime();
+var now = new Date().getTime();
 
-    
+// Find the distance between now and the count down date
 
-  // Find the distance between now and the count down date
+var distance = countDownDate - now;
 
-  var distance = countDownDate - now;
+// Time calculations for days, hours, minutes and seconds
 
-    
+var days = Math.floor(distance / (1000 * 60 * 60 * 24));
 
-  // Time calculations for days, hours, minutes and seconds
+var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
 
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
 
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+// Output the result in an element with id="demo"
 
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+document.getElementById("demo").innerHTML = days + "d " + hours + "h "
 
-    
+* minutes + "m " + seconds + "s ";
 
-  // Output the result in an element with id="demo"
+// If the count down is over, write some text
 
-  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-
-  + minutes + "m " + seconds + "s ";
-
-    
-
-  // If the count down is over, write some text 
-
-  if (distance < 0) {
+if (distance < 0) {
 
     clearInterval(x);
-
+    
     document.getElementById("demo").innerHTML = "EXPIRED";
 
-  }
+}
 
 }, 1000);
 
@@ -190,15 +180,3 @@ var x = setInterval(function() {
 </body>
 
 {{< /rawhtml >}}
-
-### Contact
-
-Feel free to leave us a comment or a question on our Twitter:
-
-{{< socialhandles >}}
-
-    {{< twitter user="stream_running" >}}
-
-    {{< github user="runningstream" >}}
-
-{{< /socialhandles >}}
