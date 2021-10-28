@@ -92,8 +92,6 @@ text-justify: inter-word;
     <th>CITY</th>
     
     <th>NFT DROP</th>
-    
-    <th>AVAILABLE PLAYERS</th>
 
 </tr>
 
@@ -102,8 +100,6 @@ text-justify: inter-word;
     <td>Berlin</td>
     
     <td id = "demo"></td>
-    
-    <td>50</td>
 
 </tr>
 
@@ -112,8 +108,6 @@ text-justify: inter-word;
     <td>Madrid</td>
     
     <td>Coming soon</td>
-    
-    <td>50</td>
 
 </tr>
 
@@ -122,8 +116,6 @@ text-justify: inter-word;
     <td>Paris</td>
     
     <td>Coming soon</td>
-    
-    <td>50</td>
 
 </tr>
 
