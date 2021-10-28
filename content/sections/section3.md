@@ -87,26 +87,6 @@ tr {
 
 <body>
 
-<div id="draft">
-
-It is necessary to buy an NFT on the OpenSea platform to participe. An NFT is a special type of crypto token that represents something unique.
-
-</div>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<div id="draft">
-
-You can participate alone or in a group with just one nft participation card \[en negrita o en grande\]. The NFTs will be published on the Opensea platform.
-
-</div>
-
 <table class="center">
 
   <tr>
@@ -210,3 +190,15 @@ var x = setInterval(function() {
 </body>
 
 {{< /rawhtml >}}
+
+\## Contact Start Bootstrap
+
+Feel free to leave us a comment on the \[Grayscale template Github page\]([https://github.com/runningstream/hugograyscale/](https://github.com/runningstream/hugograyscale/ "https://github.com/runningstream/hugograyscale/")) to give some feedback about this theme!
+
+{{< socialhandles >}}
+
+    {{< twitter user="stream_running" >}}
+
+    {{< github user="runningstream" >}}
+
+{{< /socialhandles >}}
