@@ -19,67 +19,19 @@ The column "NFT Drop" indicates when the purchase of shares in Opensea is availa
 
 p {
 
-text-align: center;
+  text-align: center;
 
-margin-top: 0px;
+   margin-top: 0px;
 
-}
-
-\#demo {
-
-font-size: 15px;
-
-line-height: 50px;
-
-text-indent: 20px;
-
-}
-
-\#city {
-
-font-size: 20px;
-
-line-height: 50px;
-
-text-indent: 0px;
-
-}
-
-\#freeSeats {
-
-font-size: 20px;
-
-line-height: 50px;
-
-text-indent: 0px;
-
-}
-
-\#boxNew{
-
-display: flex;
-
-flex-flow: row nowrap;
-
-justify-content: center;
-
-align-content: center;
-
-align-items:center;
-
-}
-
-.itemNew{
-
-flex: 1 1 auto;
+  
 
 }
 
 .center {
 
-margin-left: auto;
+  margin-left: auto;
 
-margin-right: auto;
+  margin-right: auto;
 
 }
 
@@ -91,11 +43,41 @@ padding: 0 50px;
 
 tr {
 
-font-size: 35 px;
+  font-size: 35 px;
 
-line-height: 50px;
+  line-height: 50px;
 
-text-indent: 20px;
+  text-indent: 20px;
+
+}
+
+\#pruba1 {
+
+	text-align: justify;
+
+}
+
+\# prueba2{
+
+  font-size: 1.5em;
+
+  border: 1px solid black;
+
+  padding: 10px;
+
+  width: 95%;
+
+  margin: 10px auto;
+
+  text-align: justify;
+
+}
+
+\#draft {
+
+  text-align: justify;
+
+  text-justify: inter-word;
 
 }
 
@@ -105,47 +87,67 @@ text-indent: 20px;
 
 <body>
 
+<div id="draft">
+
+It is necessary to buy an NFT on the OpenSea platform to participe. An NFT is a special type of crypto token that represents something unique.
+
+</div>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div id="draft">
+
+You can participate alone or in a group with just one nft participation card \[en negrita o en grande\]. The NFTs will be published on the Opensea platform.
+
+</div>
+
 <table class="center">
 
-<tr>
+  <tr>
 
     <th>CITY</th>
-    
+
     <th>NFT DROP</th>
-    
+
     <th>AVAILABLE PLAYERS</th>
 
-</tr>
+  </tr>
 
-<tr>
+  <tr>
 
     <td>Berlin</td>
-    
+
     <td id = "demo"></td>
-    
+
     <td>50</td>
 
-</tr>
+  </tr>
 
-<tr>
+  <tr>
 
     <td>Madrid</td>
-    
+
     <td>Coming soon</td>
-    
+
     <td>50</td>
 
-</tr>
+  </tr>
 
-<tr>
+  <tr>
 
     <td>Paris</td>
-    
+
     <td>Coming soon</td>
-    
+
     <td>50</td>
 
-</tr>
+  </tr>
 
 </table>
 
@@ -153,69 +155,58 @@ text-indent: 20px;
 
 // Set the date we're counting down to
 
-var countDownDate = new Date("Jan 1, 2022 00:00:00").getTime();
+var countDownDate = new Date("Jan 5, 2022 15:37:25").getTime();
 
 // Update the count down every 1 second
 
 var x = setInterval(function() {
 
-// Get today's date and time
+  // Get today's date and time
 
-var now = new Date().getTime();
+  var now = new Date().getTime();
 
-// Find the distance between now and the count down date
+    
 
-var distance = countDownDate - now;
+  // Find the distance between now and the count down date
 
-// Time calculations for days, hours, minutes and seconds
+  var distance = countDownDate - now;
 
-var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    
 
-var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  // Time calculations for days, hours, minutes and seconds
 
-var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
 
-var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
 
-// Output the result in an element with id="demo"
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
 
-document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-* minutes + "m " + seconds + "s ";
+    
 
-// If the count down is over, write some text
+  // Output the result in an element with id="demo"
 
-if (distance < 0) {
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+
+  + minutes + "m " + seconds + "s ";
+
+    
+
+  // If the count down is over, write some text 
+
+  if (distance < 0) {
 
     clearInterval(x);
-    
+
     document.getElementById("demo").innerHTML = "EXPIRED";
 
-}
+  }
 
 }, 1000);
 
 </script>
 
 </body>
-
-{{< /rawhtml >}}
-
-#### Contact us
-
-Feel free to leave us a comment on the [Grayscale template Github page](https://github.com/runningstream/hugograyscale/) to give some feedback about this theme!
-
-{{< socialhandles >}}
-{{< twitter user="stream_running" >}}
-{{< github user="runningstream" >}}
-{{< /socialhandles >}}
-
-{{< rawhtml >}}
-
-<script>
-
-document.getElementsByClassName('nav-item')\[3\].remove()
-
-</script>
 
 {{< /rawhtml >}}
