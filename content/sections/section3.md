@@ -5,7 +5,17 @@ weight: "4"
 ---
 ## Active Games
 
-The games that are being played and the ones that are going to be played are shown below. Any news about new games will be published through our **Twitter page**.
+{{<rawhtml >}}
+
+<cc style="font-size: 17px">
+
+The games that are being played and the ones that are going to be played are shown below. Any news about new games will be published through our <span style="color:#42DCA3">Twitter page.</span> 
+
+</cc>
+
+{{< /rawhtml >}}
+
+The games that are being played and the ones that are going to be played are shown below. Any news about new games will be published through our Twitter page.
 
 The column **NFT Drop** indicates when the purchase of shares in Opensea is available
 
