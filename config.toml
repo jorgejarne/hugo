@@ -1,4 +1,6 @@
-baseURL = "https://happy-hugle-8dfa0b.netlify.app"
+#baseURL = "https://happy-hugle-8dfa0b.netlify.app"
+baseURL = "https://th3lastgam3.com"
+
 languageCode = "en-us"
 title = "The Last Game"
 theme = "hugograyscale"
@@ -7,11 +9,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
     # Provide some metadata for search and indexing services
-    description = "A port of the Grayscale theme to Hugo"
+    description = "FIRST CO-LOCATED GAME BASED ON NFTS"
 
 [Author]
-    name = "RunningStream"
-    email = "dco@runningstream.net"
+    name = "th3lastgam3"
+    email = "the.last.game.contest@gmail.com"
 
 [Social]
-    twitter = "stream_running"
+    twitter = "Th3LastGam3"
