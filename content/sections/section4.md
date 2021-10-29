@@ -5,7 +5,7 @@ weight: "5"
 ---
 ## Contact
 
-Leave us a comment or a question on Twitter:
+Leave us a comment or a question on Twitter or Email
 
 {{< socialhandles >}}
 
