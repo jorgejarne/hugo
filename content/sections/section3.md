@@ -21,7 +21,7 @@ The games that are being played and the ones that are going to be played are sho
 
 <cc style="font-size: 17px">
 
- The column <span style="color:#42DCA3"> NFT Drop</span> indicates when the purchase of shares in Opensea is available
+The column <span style="color:#42DCA3"> NFT Drop</span> indicates when the purchase of shares in Opensea is available
 
 </cc>
 
