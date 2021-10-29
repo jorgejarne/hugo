@@ -12,8 +12,8 @@ It is necessary to buy an NFT on the OpenSea platform to participe. An NFT is a 
 
 You can participate alone or in a group with just **one nft participation card**. When all available places in the game have been filled, the players will be notified with the start date.
 
-{{< big-button text="Buy NFT participation" href="http://opensea.io/" >}}
+{{< big-button text="Buy NFT participation" href="http://opensea.io/th3lastgam3" >}}
 
-&nbsp;
+ 
 
 ![Example image](/img/nftcard.png)
