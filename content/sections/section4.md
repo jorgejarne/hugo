@@ -14,3 +14,5 @@ Leave us a comment or a question on Twitter or Email
     {{< email user="the.last.game.contest@gmail.com" >}}
 
 {{< /socialhandles >}}
+
+    [Linktext](mailto:foo@bar.com?subject=This%20is%20my%20subject)
